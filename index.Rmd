@@ -7,10 +7,22 @@ output:
     theme: cerulean
 ---
 
-# This is Xiaoyu's website
+#### This is Xiaoyu's website
 
 Welcome to my personal site!
 
-# Link to my resume
+#### Link to my resume
 
 [My resume](Resume.html)
+
+#### This is my email
+
+xl2834@columbia.edu
+
+#### My github page
+
+[XiaoyuLi19](https://github.com/XiaoyuLi19)
+
+#### My linkedIn
+
+[Connect with me on LinkedIn!](https://www.linkedin.com/in/xiaoyu-li-05812b196/)
